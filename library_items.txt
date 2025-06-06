@@ -1,0 +1,16 @@
+Type,ID,Title,YearPublished,Author/Director,Genre/Duration,IssueNumber,Month
+Book,BOK123,The Hobbit,1937,J.R.R. Tolkien,Fantasy,,
+Book,BOK456,1984,1949,George Orwell,Dystopian,,
+Book,BOK789,To Kill a Mockingbird,1960,Harper Lee,Fiction,,
+Book,BOK321,The Great Gatsby,1925,F. Scott Fitzgerald,Classic,,
+Book,BOK654,The Catcher in the Rye,1951,J.D. Salinger,Classic,,
+DVD,DVD123,Inception,2010,Christopher Nolan,148,,
+DVD,DVD456,The Matrix,1999,Wachowski Sisters,136,,
+DVD,DVD789,Interstellar,2014,Christopher Nolan,169,,
+DVD,DVD321,The Godfather,1972,Francis Ford Coppola,175,,
+DVD,DVD654,The Dark Knight,2008,Christopher Nolan,152,,
+Magazine,MGZ123,Time,2023,,,101,January
+Magazine,MGZ456,National Geographic,2023,,,202,February
+Magazine,MGZ789,Forbes,2023,,,303,March
+Magazine,MGZ321,Scientific American,2023,,,404,April
+Magazine,MGZ654,The Economist,2023,,,505,May
